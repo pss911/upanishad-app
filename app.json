@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "Bhakti Lahari",
-    "slug": "Bhakti-Lahari",
-    "version": "1.0.4",
+    "name": "Upanishad Lahari",
+    "slug": "Upanishad-Lahari",
+    "version": "1.0.0",
     "orientation": "default",
     "icon": "./assets/icon.png",
     "splash": {
@@ -22,7 +22,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.kapardhi.bhaktilahari",
+      "package": "com.kapardhi.upanishadlahari",
       "permissions": [],
       "versionCode": 5
     },
