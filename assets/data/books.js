@@ -22,32 +22,32 @@
     name: "ఐతరేయోపనిషత్",
     // image: require("../images/u004.jpg"),
     hasDivisions: true,
-  }
+  },
+  {
+    id: "u005",
+    name: "తైత్తిరీయోపనిషత్ ",
+    // image: require("../images/u005.jpg"),
+    hasDivisions: true,
+  },
+  {
+    id: "u006",
+    name: "ముండకోపనిషత్",
+    // image: require("../images/u006.jpg"),
+    hasDivisions: true,
+  },
+  {
+    id: "u007",
+    name: "మాండూక్యోపనిషత్",
+    // image: require("../images/u007.jpg"),
+    hasDivisions: false,
+  },
+  {
+    id: "u008",
+    name: "ప్రశ్నోపనిషత్",
+    // image: require("../images/u008.jpg"),
+    hasDivisions: true,
+  },
 ];
-//   {
-//     id: "u005",
-//     name: "తైత్తిరీయోపనిషత్ ",
-//     // image: require("../images/u005.jpg"),
-//     hasDivisions: true,
-//   },
-//   {
-//     id: "u006",
-//     name: "ముండకోపనిషత్",
-//     // image: require("../images/u006.jpg"),
-//     hasDivisions: true,
-//   },
-//   {
-//     id: "u007",
-//     name: "మాండూక్యోపనిషత్",
-//     // image: require("../images/u007.jpg"),
-//     hasDivisions: false,
-//   },
-//   {
-//     id: "u008",
-//     name: "ప్రశ్నోపనిషత్",
-//     // image: require("../images/u008.jpg"),
-//     hasDivisions: true,
-//   },
 //   {
 //     id: "u009",
 //     name: "ఛాందోగ్యోపనిషత్",
