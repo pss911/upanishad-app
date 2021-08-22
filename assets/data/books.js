@@ -47,13 +47,14 @@
     // image: require("../images/u008.jpg"),
     hasDivisions: true,
   },
+  {
+    id: "u009",
+    name: "ఛాందోగ్యోపనిషత్",
+    // image: require("../images/u009.jpg"),
+    hasDivisions: true,
+  }
 ];
-//   {
-//     id: "u009",
-//     name: "ఛాందోగ్యోపనిషత్",
-//     // image: require("../images/u009.jpg"),
-//     hasDivisions: true,
-//   },
+
 //   {
 //     id: "u010",
 //     name: "బృహదారణ్యకోపనిషత్",
